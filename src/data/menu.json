@@ -1,0 +1,78 @@
+{   
+    "sections": ["hambuguesas", "ensaladas", "snacks", "bebidas"],
+    "menu":[
+        {
+            "id":0,
+            "name": "Famous Star",
+            "description": "Carne 100% de res asada a la parrilla, salsa especial, queso americano, mayonesa, lechuga, cebolla, tomate y pepinillos.",
+            "size": "284g",
+            "price": "90.00",
+            "category": "hamburguesas"
+        },
+        {
+            "id":1,
+            "name": "Double Western Bacon Cheeseburger",
+            "description": "Dos piezas de carne 100% de res asada a la parrilla, salsa BBQ, rebanadas de tocino, queso americano y aros de cebolla empanizados.",
+            "size": "322g",
+            "price": "100.00",
+            "category": "hamburguesa"
+        },
+        {
+            "id":2,
+            "name": "famous star",
+            "description": "Carne 100% de res asada a la parrilla, salsa especial, queso americano, mayonesa, lechuga, cebolla, tomate y pepinillos.",
+            "size": "284g",
+            "price": "90.00",
+            "category": "hamburguesas"
+        },
+        {
+            "id":3,
+            "name": "The Big Carl",
+            "description": "Dos piezas de carne 100% de res asadas a la parrilla, nuestra salsa clásica, dos rebanadas de queso americano y lechuga.",
+            "size": "321g",
+            "price": "120.00",
+            "category": "hamburguesas"
+        },
+        {
+            "id":4,
+            "name": "Bacon Swiss Big Chicken Fillet",
+            "description": "Crujiente pechuga de pollo empanizada y sazonada con especias, 2 piezas de tocino, queso suizo, lechuga, tomate y aderezo ranch.",
+            "size": "322g",
+            "price": "150.00",
+            "category": "hamburguesas"
+        },
+        {
+            "id":5,
+            "name": "Side Salad",
+            "description": "Mezcla de frescas lechugas, tomate fresco, pepino y queso rallado.",
+            "size": "193g",
+            "price": "90.00",
+            "category": "ensaldas"
+        },
+        {
+            "id":6,
+            "name": "Onion Rings",
+            "description": "Aros de cebolla empanizados.",
+            "size": "128g",
+            "price": "35.00",
+            "category": "snacks"
+        },
+        {
+            "id":7,
+            "name": "Refresco",
+            "description": "Refrescos de la familia Coca-Cola®.",
+            "size": "350ml",
+            "price": "25.00",
+            "category": "bebidas"
+        },
+        {
+            "id":7,
+            "name": "Te helado",
+            "description": "De la familia Coca-Cola®.",
+            "size": "500ml",
+            "price": "30.00",
+            "category": "bebidas"
+        }
+
+    ]
+}
