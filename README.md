@@ -1,11 +1,24 @@
-#Test database
+# Getting started
+install dependencies with npm i  
+create .env file in root
+
+
+# Test database
 SOURCE: https://www.npoint.io/
 URL: https://www.npoint.io/docs/e81ec4427cbc3700b7a5
 API: https://api.npoint.io/e81ec4427cbc3700b7a5
 
+include the API in .env liek this:  
+`REACT_APP_DB=https://api.npoint.io/e81ec4427cbc3700b7a5`
+
+---
+---
+---
+---
+---
+---
 
 # REACT
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
