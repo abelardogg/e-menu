@@ -1,5 +1,5 @@
 {   
-    "sections": ["hambuguesas", "ensaladas", "snacks", "bebidas"],
+    "categories": ["hamburguesas", "ensaladas", "snacks", "bebidas"],
     "menu":[
         {
             "id":0,
@@ -47,7 +47,7 @@
             "description": "Mezcla de frescas lechugas, tomate fresco, pepino y queso rallado.",
             "size": "193g",
             "price": "90.00",
-            "category": "ensaldas"
+            "category": "ensaladas"
         },
         {
             "id":6,
