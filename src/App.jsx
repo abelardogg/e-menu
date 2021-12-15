@@ -55,7 +55,10 @@ class App extends React.Component{
         }
         return <>
             <Header></Header>
-            <Menu menuByCategories={this.state.menuByCategories}></Menu>
+            <div className={'container'}>
+                <Menu menuByCategories={this.state.menuByCategories}></Menu>
+            </div>
+            
             <Summary></Summary>
             <Footer></Footer>
         </>;
